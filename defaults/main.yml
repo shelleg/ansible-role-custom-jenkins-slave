@@ -1,0 +1,7 @@
+---
+# defaults file for ansible-role-custom-jenkins-slave
+
+cj_runas_user: jenkins
+cj_runas_group: jenkins
+
+cjs_home: /home/jenkins
